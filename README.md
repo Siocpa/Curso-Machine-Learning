@@ -29,3 +29,9 @@ M5 - 09 - Folium
 Prophet - Predecir el valor de Bitcoin
 
 M5 - 07 - Numpy Array 1D
+
+## Día 4 - Jueves
+
+M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium
+
+M5 - SPACEX2 - 6 - Machine Learning Predicciones
