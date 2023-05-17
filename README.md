@@ -36,6 +36,10 @@ M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium
 
 M5 - SPACEX2 - 6 - Machine Learning Predicciones
 
+## Día 5 - Viernes
+
+M5 - 10 - Matplotlib y Seaborn
+
 ## Semana Online Día 1
 
 M4 - 06 - Clases
