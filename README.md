@@ -35,3 +35,9 @@ M5 - 07 - Numpy Array 1D
 M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium
 
 M5 - SPACEX2 - 6 - Machine Learning Predicciones
+
+## Semana Online Día 1
+
+M4 - 06 - Clases
+
+M5 - 04 - Funciones
