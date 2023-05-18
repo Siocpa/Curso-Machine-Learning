@@ -45,3 +45,7 @@ M5 - 10 - Matplotlib y Seaborn
 M4 - 06 - Clases
 
 M5 - 04 - Funciones
+
+## Semana Online Día 2
+
+M6 - 04 - Programación Funcional
