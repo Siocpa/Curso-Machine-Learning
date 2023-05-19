@@ -49,3 +49,11 @@ M5 - 04 - Funciones
 ## Semana Online Día 2
 
 M6 - 04 - Programación Funcional
+
+## Semana Online Día 3
+
+M6 - 05 - SparkSession Teoría
+
+M6 - 06 - Primer RDD Teoría
+
+M6 - 06 - Primer RDD Teoría
